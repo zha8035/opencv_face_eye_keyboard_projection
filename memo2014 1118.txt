@@ -1,0 +1,6 @@
+memo 2014 11 18
+https://github.com/zha8035/opencv_face_eye_keyboard_projection.git
+注册 github 账号 把 用户名 和 publickey 给我
+请教 于学姐 opencv 人脸 人眼识别 的资源
+目标 利用人眼注视哪里，帮助残疾人输入。
+有一个比较代表水平的应用 视频放到网上 为以后打基础。
